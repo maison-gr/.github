@@ -1,63 +1,84 @@
 <h1 align="center">Atelier Numérique Québec</h1>
 
 <p align="center">
-  Studio digital premium spécialisé en SaaS, web, mobile & IA
+  Digital Product Studio — SaaS, Web, Mobile & AI
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Design-Minimal-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Performance-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI-Integrated-0ea5e9?style=flat-square" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1200&color=111827&center=true&vCenter=true&width=600&lines=SaaS+%7C+Web+%7C+Mobile+%7C+IA;Simplicité+%E2%80%A2+Performance+%E2%80%A2+Excellence" />
+  <img src="https://img.shields.io/badge/Product%20Studio-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Revenue%20Driven-2563eb?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Native-9333ea?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 ---
 
-## ✨ À propos
-
-Atelier Numérique Québec est un studio digital qui conçoit des plateformes modernes, luxe, complexe et performantes.
-
-Nous transformons des idées en produits numériques élégants et scalables.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1200&center=true&vCenter=true&width=700&color=6b7280&lines=We+build+and+operate+real+SaaS+products;AI-native+platforms+designed+to+generate+revenue;Minimal.+Scalable.+Built+for+performance." />
+</p>
 
 ---
 
-## 🚀 Expertise
+## ✨ About
 
-- SaaS platforms  
-- Applications web  
-- Applications mobiles  
-- Solutions IA  
-- Systèmes de paiement  
+Atelier Numérique Québec is a **premium digital product studio** focused on building and operating high-performance SaaS platforms.
 
----
-
-## 🧠 Approche
-
-- Design minimaliste  
-- Architecture propre  
-- Performance avant tout  
-- Expérience utilisateur fluide  
-- Technologies modernes  
+We don’t create demos or concepts.  
+We design, develop, and scale **real products used in production**, built to generate measurable results.
 
 ---
 
-## 💎 Vision
+## 🚀 What We Do
 
-> Simplicité. Élégance. Performance.
+- SaaS Platforms (B2B / B2C)  
+- Web Applications  
+- Mobile Applications  
+- AI-Powered Systems  
+- Payment & Automation Infrastructure  
 
 ---
 
-## 🌍 Québec
+## 🧠 Our Approach
 
-Studio basé au Québec, travaillant avec des clients locaux et internationaux.
+- Product-first mindset  
+- Revenue-driven architecture  
+- Clean, scalable systems  
+- AI integrated by design  
+- Precision in UX & performance  
+
+---
+
+## 🧩 Internal Ventures
+
+Our products are not showcases.  
+They are **active ventures**, built, tested, and optimized in real-world conditions.
+
+**Example Venture**
+
+**PropPilot AI**  
+AI-powered property management platform  
+- Smart lease insights  
+- Automated rent collection  
+- Owner performance dashboards  
+
+---
+
+## 💎 Philosophy
+
+> We don’t build more features.  
+> We build products that perform.
+
+Minimal.  
+Precise.  
+Engineered for impact.
+
+---
+
+## 🌍 Based in Québec — Built for the World
+
+We operate from Québec, Canada, and collaborate internationally with founders and companies building ambitious digital products.
 
 ---
 
 <p align="center">
-  Des plateformes simples. Puissantes. Durables.
+  Real products. Real performance. Real impact.
 </p>
