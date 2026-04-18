@@ -1,84 +1,88 @@
-<h1 align="center">Atelier Numérique Québec</h1>
+<h1 align="center">Maison GR</h1>
 
 <p align="center">
-  Digital Product Studio — SaaS, Web, Mobile & AI
+  Atelier Numérique — Luxury Digital Product Studio
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Product%20Studio-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Revenue%20Driven-2563eb?style=flat-square&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Native-9333ea?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maison%20GR-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/High--End%20Products-111827?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI--Native-9333ea?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1200&center=true&vCenter=true&width=700&color=6b7280&lines=We+build+and+operate+real+SaaS+products;AI-native+platforms+designed+to+generate+revenue;Minimal.+Scalable.+Built+for+performance." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1200&center=true&vCenter=true&width=700&color=6b7280&lines=We+design+luxury+digital+products;High-end+SaaS+platforms+that+generate+revenue;Minimal.+Elegant.+Engineered+for+performance." />
 </p>
 
 ---
 
 ## ✨ About
 
-Atelier Numérique Québec is a **premium digital product studio** focused on building and operating high-performance SaaS platforms.
+Maison GR is a **luxury digital product studio** crafting high-end SaaS platforms, web applications, and AI-powered systems.
 
-We don’t create demos or concepts.  
-We design, develop, and scale **real products used in production**, built to generate measurable results.
+We don’t build basic websites.  
+We design and deliver **premium digital experiences** that reflect ambition, precision, and performance.
 
 ---
 
 ## 🚀 What We Do
 
-- SaaS Platforms (B2B / B2C)  
-- Web Applications  
+- High-End SaaS Platforms (B2B / B2C)  
+- Premium Web Experiences  
 - Mobile Applications  
 - AI-Powered Systems  
-- Payment & Automation Infrastructure  
+- Payment & Subscription Architectures  
 
 ---
 
 ## 🧠 Our Approach
 
-- Product-first mindset  
-- Revenue-driven architecture  
-- Clean, scalable systems  
-- AI integrated by design  
-- Precision in UX & performance  
+- Design-first, luxury-grade interfaces  
+- Revenue-driven product thinking  
+- Clean, scalable engineering  
+- AI integrated by default  
+- Detail obsession in UX & performance  
 
 ---
 
-## 🧩 Internal Ventures
+## 🧩 Active Projects
 
-Our products are not showcases.  
-They are **active ventures**, built, tested, and optimized in real-world conditions.
+Our work is not theoretical.  
+It is **built, deployed, and evolving in production**.
 
-**Example Venture**
+**AquaDrill — Website (Production)**  
+Premium industrial web platform  
+- High-performance architecture  
+- Conversion-focused design  
+- Built for scale across Africa  
 
-**PropPilot AI**  
-AI-powered property management platform  
-- Smart lease insights  
-- Automated rent collection  
-- Owner performance dashboards  
+**AquaDrill — SaaS Platform (In Progress)**  
+Next-generation drilling operations system  
+- Project & field management  
+- Client dashboards  
+- Automation & reporting  
 
 ---
 
 ## 💎 Philosophy
 
-> We don’t build more features.  
-> We build products that perform.
+> We don’t build for average.  
+> We build for impact.
 
 Minimal.  
-Precise.  
-Engineered for impact.
+Luxurious.  
+Engineered to perform.
 
 ---
 
-## 🌍 Based in Québec — Built for the World
+## 🌍 Based in Canada — Built for the World
 
-We operate from Québec, Canada, and collaborate internationally with founders and companies building ambitious digital products.
+Maison GR operates from Québec and collaborates globally with companies that demand **top-tier digital execution**.
 
 ---
 
 <p align="center">
-  Real products. Real performance. Real impact.
+  Luxury products. Engineered performance.
 </p>
