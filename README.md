@@ -1,7 +1,11 @@
-<h1 align="center">Atelier Numérique Québec</h1>
+<h1 align="center">Maison GR — Atelier Numérique</h1>
 
 <p align="center">
-  Studio digital premium spécialisé en SaaS, web, mobile & IA
+  Studio digital basé à Québec spécialisé en SaaS, web, mobile & IA
+</p>
+
+<p align="center">
+  <a href="https://www.maisongr.com">🌐 www.maisongr.com</a>
 </p>
 
 <p align="center">
@@ -13,51 +17,55 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1200&color=111827&center=true&vCenter=true&width=600&lines=SaaS+%7C+Web+%7C+Mobile+%7C+IA;Simplicité+%E2%80%A2+Performance+%E2%80%A2+Excellence" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1200&color=111827&center=true&vCenter=true&width=600&lines=SaaS+%7C+Web+%7C+Mobile+%7C+IA;Produits+digitaux+qui+g%C3%A9n%C3%A8rent+de+la+valeur" />
 </p>
 
 ---
 
 ## ✨ À propos
 
-Atelier Numérique Québec est un studio digital qui conçoit des plateformes modernes, simples et performantes.
+Maison GR est un studio numérique qui conçoit des produits digitaux performants, pensés pour durer.
 
-Nous transformons des idées en produits numériques élégants et scalables.
+Nous ne construisons pas simplement des applications — nous développons des solutions alignées avec vos objectifs business.
 
 ---
 
 ## 🚀 Expertise
 
-- SaaS platforms  
-- Applications web  
+- Plateformes SaaS sur mesure  
+- Applications web modernes  
 - Applications mobiles  
-- Solutions IA  
-- Systèmes de paiement  
+- Solutions d’intelligence artificielle  
+- Systèmes de paiement & automatisation  
 
 ---
 
 ## 🧠 Approche
 
-- Design minimaliste  
-- Architecture propre  
-- Performance avant tout  
-- Expérience utilisateur fluide  
-- Technologies modernes  
+- Cadrage produit en amont  
+- Architecture scalable  
+- Performance dès la conception  
+- Expérience utilisateur optimisée  
+- Technologies modernes & maintenables  
 
 ---
 
 ## 💎 Vision
 
-> Simplicité. Élégance. Performance.
+> Construire des produits utiles, performants et durables.
 
 ---
 
 ## 🌍 Québec
 
-Studio basé au Québec, travaillant avec des clients locaux et internationaux.
+Basé à Québec, Maison GR accompagne des entreprises locales et internationales.
 
 ---
 
 <p align="center">
-  Des plateformes simples. Puissantes. Durables.
+  Des produits qui génèrent de la valeur — pas juste du code.
+</p>
+
+<p align="center">
+  📩 hello@maisongr.com  
 </p>
