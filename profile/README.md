@@ -1,88 +1,99 @@
-<h1 align="center">Maison GR</h1>
+<div align="center">
 
-<p align="center">
-  Atelier Numérique — Luxury Digital Product Studio
+# 🏛️ Maison GR
+
+### Atelier Numérique — Québec, Canada
+
+<p>
+  <img src="https://img.shields.io/badge/SaaS-Platforms-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web-Applications-1e3a5f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mobile-iOS%20%26%20Android-0f766e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-MIT-16a34a?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Maison%20GR-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/High--End%20Products-111827?style=flat-square&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI--Native-9333ea?style=flat-square&logo=openai&logoColor=white" />
-</p>
+*We design and engineer premium digital products — built to perform, built to last.*
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1200&center=true&vCenter=true&width=700&color=6b7280&lines=We+design+luxury+digital+products;High-end+SaaS+platforms+that+generate+revenue;Minimal.+Elegant.+Engineered+for+performance." />
-</p>
+## 👋 Who We Are
+
+**Maison GR** is a digital product studio founded by **Raed Fadhlaoui**, based in Québec, Canada.
+
+We build high-quality SaaS platforms, web applications, and mobile games — products that are clean, fast, and engineered with care. We don't ship average. Every project ships with the same attention to architecture, UX, and performance.
+
+The name *Maison GR* carries the initials of **Adam** and **Ghofrane** — the people we build for.
 
 ---
 
-## ✨ About
+## 🚀 What We Build
 
-Maison GR is a **luxury digital product studio** crafting high-end SaaS platforms, web applications, and AI-powered systems.
-
-We don’t build basic websites.  
-We design and deliver **premium digital experiences** that reflect ambition, precision, and performance.
-
----
-
-## 🚀 What We Do
-
-- High-End SaaS Platforms (B2B / B2C)  
-- Premium Web Experiences  
-- Mobile Applications  
-- AI-Powered Systems  
-- Payment & Subscription Architectures  
+| Area | Details |
+|:-----|:--------|
+| **SaaS Platforms** | B2B and B2C products with real revenue models |
+| **Web Applications** | Modern React / Node.js stacks, production-grade |
+| **Mobile Games** | Phaser.js + Capacitor — iOS, Android, and browser |
+| **Industrial Systems** | Field management, operations dashboards, automation |
 
 ---
 
-## 🧠 Our Approach
+## 📦 Projects
 
-- Design-first, luxury-grade interfaces  
-- Revenue-driven product thinking  
-- Clean, scalable engineering  
-- AI integrated by default  
-- Detail obsession in UX & performance  
+### 🎮 Adam's Kingdom — Open Source
+> A fully playable Coin Master-style mobile game — spin, attack, raid, build your kingdom.
+
+Built with **Phaser.js + Capacitor** — no Unity, no native code, no external art assets. Every building, every animation, every sound is generated in code.
+
+- 10 scenes · 7 rank tiers · boss fights · card collection · daily login streaks
+- Runs on web, Android, and iOS — AdMob ready for revenue
+- Responsive from iPhone SE to iPad Pro
+
+[![View Project](https://img.shields.io/badge/View%20Project-adams--kingdom-FFD700?style=for-the-badge&logo=github)](https://github.com/maison-gr/adams-kingdom)
+[![MIT License](https://img.shields.io/badge/License-MIT-16a34a?style=for-the-badge)](https://github.com/maison-gr/adams-kingdom/blob/main/LICENSE)
 
 ---
 
-## 🧩 Active Projects
+### 🛢️ AquaDrill — Production Website
+> Premium industrial web platform for a drilling operations company serving Africa.
 
-Our work is not theoretical.  
-It is **built, deployed, and evolving in production**.
+- High-performance architecture · conversion-focused design · built for scale
 
-**AquaDrill — Website (Production)**  
-Premium industrial web platform  
-- High-performance architecture  
-- Conversion-focused design  
-- Built for scale across Africa  
+---
 
-**AquaDrill — SaaS Platform (In Progress)**  
-Next-generation drilling operations system  
-- Project & field management  
-- Client dashboards  
-- Automation & reporting  
+### 🛢️ AquaDrill — SaaS Platform *(In Progress)*
+> Next-generation drilling operations management system.
+
+- Project & field management · client dashboards · automation & reporting
+
+---
+
+## 🛠️ Our Stack
+
+```
+Frontend   →  React · Phaser.js · Vite · TailwindCSS
+Backend    →  Node.js · Express · MongoDB · Mongoose
+Mobile     →  Capacitor (iOS + Android) · AdMob
+Auth       →  JWT · OAuth
+Infra      →  Vercel · Railway · MongoDB Atlas
+```
 
 ---
 
 ## 💎 Philosophy
 
-> We don’t build for average.  
-> We build for impact.
+> We don't build for average. We build for impact.
 
-Minimal.  
-Luxurious.  
-Engineered to perform.
+Minimal. Precise. Engineered to perform.
 
 ---
 
-## 🌍 Based in Canada — Built for the World
+## 🌍 Based in Québec — Built for the World
 
-Maison GR operates from Québec and collaborates globally with companies that demand **top-tier digital execution**.
+Maison GR collaborates with companies and founders that demand serious digital execution.
 
----
+<div align="center">
 
-<p align="center">
-  Luxury products. Engineered performance.
-</p>
+📩 [hello@maisongr.com](mailto:hello@maisongr.com) · 🌐 [www.maisongr.com](https://www.maisongr.com) · 💻 [GitHub](https://github.com/maison-gr)
+
+</div>
