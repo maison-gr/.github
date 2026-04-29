@@ -19,7 +19,7 @@
 
 ## 👋 Who We Are
 
-**Maison GR** is a digital product studio founded by **Raed Fadhlaoui**, based in Québec, Canada.
+**Maison GR** is a digital product studio, based in Québec, Canada.
 
 We build high-quality SaaS platforms, web applications, and mobile games — products that are clean, fast, and engineered with care. We don't ship average. Every project ships with the same attention to architecture, UX, and performance.
 
