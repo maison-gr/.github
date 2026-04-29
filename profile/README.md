@@ -21,7 +21,7 @@
 
 **Maison GR** is a digital product studio, based in Québec, Canada.
 
-We build high-quality SaaS platforms, web applications, and mobile games — products that are clean, fast, and engineered with care. We don't ship average. Every project ships with the same attention to architecture, UX, and performance.
+We build high-quality SaaS platforms, web and mobile applications — products that are clean, fast, and engineered with care. We don't ship average. Every project ships with the same attention to architecture, UX, and performance.
 
 The name *Maison GR* carries the initials of **Adam** and **Ghofrane** — the people we build for.
 
