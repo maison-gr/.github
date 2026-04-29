@@ -1,71 +1,19 @@
-<h1 align="center">Maison GR — Atelier Numérique</h1>
+<div align="center">
+
+# Maison GR
+
+**Atelier Numérique — Québec, Canada**
+
+*We design and engineer premium digital products.*
+
 
 <p align="center">
-  Studio digital basé à Québec spécialisé en SaaS, web, mobile & IA
-</p>
-
-<p align="center">
-  <a href="https://www.maisongr.com">🌐 www.maisongr.com</a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Design-Minimal-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Performance-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI-Integrated-0ea5e9?style=flat-square" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1200&color=111827&center=true&vCenter=true&width=600&lines=SaaS+%7C+Web+%7C+Mobile+%7C+IA;Produits+digitaux+qui+g%C3%A9n%C3%A8rent+de+la+valeur" />
-</p>
-
----
-
-## ✨ À propos
-
-Maison GR est un studio numérique qui conçoit des produits digitaux performants, pensés pour durer.
-
-Nous ne construisons pas simplement des applications — nous développons des solutions alignées avec vos objectifs business.
-
----
-
-## 🚀 Expertise
-
-- Plateformes SaaS sur mesure  
-- Applications web modernes  
-- Applications mobiles  
-- Solutions d’intelligence artificielle  
-- Systèmes de paiement & automatisation  
-
----
-
-## 🧠 Approche
-
-- Cadrage produit en amont  
-- Architecture scalable  
-- Performance dès la conception  
-- Expérience utilisateur optimisée  
-- Technologies modernes & maintenables  
-
----
-
-## 💎 Vision
-
-> Construire des produits utiles, performants et durables.
-
----
-
-## 🌍 Québec
-
-Basé à Québec, Maison GR accompagne des entreprises locales et internationales.
-
----
-
-<p align="center">
-  Des produits qui génèrent de la valeur — pas juste du code.
-</p>
-
-<p align="center">
-  📩 hello@maisongr.com  
+  <img src="https://img.shields.io/badge/Maison%20GR-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/High--End%20Products-111827?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI--Native-9333ea?style=flat-square&logo=openai&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/SaaS-Platforms-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web-Applications-1e3a5f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mobile-iOS%20%26%20Android-0f766e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-MIT-16a34a?style=for-the-badge" />
 </p>
