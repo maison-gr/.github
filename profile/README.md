@@ -6,6 +6,7 @@
 
 *We design and engineer premium digital products.*
 
+<img src="https://komarev.com/ghpvc/?username=maison-gr&label=Profile%20Views&color=4F46E5&style=flat-square" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maison%20GR-000000?style=flat-square&logo=vercel&logoColor=white" />
