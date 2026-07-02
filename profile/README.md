@@ -2,80 +2,82 @@
 
 # Maison GR
 
-**Atelier Numérique — Québec, Canada**
+**Québec, Canada**
 
-*We design and engineer premium digital products with meticulous craftsmanship.*
-
-<img src="https://komarev.com/ghpvc/?username=maison-gr&label=Profile%20Views&color=4F46E5&style=flat-square" />
+*Architecting, capitalizing, and engineering the next generation of high-conviction digital infrastructure and AI-native enterprise platforms.*
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Maison%20GR-Premium%20Studio-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI--Native-High--End-9333ea?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Production%20Ready-16a34a?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=maison-gr&label=Institutional%20Traffic&color=000000&style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SaaS-Platforms-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web-Applications-1e3a5f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mobile-iOS%20%26%20Android-0f766e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Maison%20GR-Venture%20Studio-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/AUM-Proprietary%20Holdings-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Engine-AI%20Native%20%2F%20Deep%20Tech-9333ea?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Enterprise-SaaS-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Proprietary-Algorithms-1e3a5f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Global-Infrastructure-0f766e?style=for-the-badge" />
 </p>
 
 </div>
 
 ---
 
-## 🏛️ About Maison GR
+## 🏛️ Corporate Overview
 
-Maison GR is an elite digital engineering studio based in Québec, Canada. We specialize in designing and crafting premium, multi-lingual, AI-native platforms engineered for exceptional user experiences and world-class design standards. 
+Maison GR operates at the intersection of world-class digital craftsmanship and institutional-grade software engineering. As a premier technology holding company and digital engineering atelier based in Québec, Canada, we conceptualize, build, and scale high-yielding asset portfolios. 
 
-Our focus is on blending premium design aesthetics with intelligent, human-centric software solutions.
+Our proprietary development framework integrates advanced mathematical behavioral scoring, real-time streaming LLM orchestration, and strict multi-regional compliance (EN/FR/AR) into seamless, hyper-optimized consumer and enterprise solutions.
 
 ---
 
-## 🚀 Our Digital Ecosystem
+## 🚀 Active Portfolio & Asset Ecosystem
 
 ### 1. Resistaa — The ADHD Operating System
-**Status:** 🟢 Live in Production | **Explore at:** [www.resistaa.com](https://www.resistaa.com)
+**Asset Class:** Consumer Healthtech / Productivity SaaS | **Liquidity Status:** 🟢 Active | **Deployment:** [www.resistaa.com](https://www.resistaa.com)
 
-Resistaa is a beautifully designed, comprehensive productivity platform built specifically for adults experiencing executive dysfunction and task-initiation challenges. Instead of adding planning overhead, Resistaa centers its experience around the exact moment a user feels stuck.
+Resistaa is a category-defining behavioral modification platform engineered to mitigate severe executive dysfunction and cognitive friction barriers. By replacing standard temporal overhead with instant, friction-free activation mechanics, it serves as a persistent productivity layer for neurodivergent professionals globally.
 
-*   **AI Unblock Engine:** Identifies specific cognitive friction patterns—such as task paralysis, perfectionism, or time blindness—and breaks down overwhelming tasks into 2–3 realistic, gentle micro-steps.
-*   **ADHD Workspace:** A calm, unified dashboard featuring fluid mood and energy tracking, custom daily prompts, configurable focus timers, and unstructured mental brain dumps.
-*   **Body-Double Feature:** Provides a supportive virtual co-working presence to help users maintain focus and seamlessly bridge the gap into active task engagement.
-*   **Global Accessibility:** Fully localized and optimized natively across English, French, and Arabic.
+*   **Proprietary AI Unblock Engine:** Dynamically diagnoses real-time cognitive resistance variables (including task paralysis, rejection sensitivity, and urgency dependency) to instantly output optimal, micro-segmented action paths.
+*   **Unified Cognitive Dashboard:** A friction-free operational hub integrating biometric energy analytics, synchronized behavioral focus timers, and unstructured semantic brain-dumps.
+*   **Virtual Body-Double Architecture:** Combines psychological pacing models with interactive focus environments to maximize deep-work retention and user velocity.
+*   **Global Localization Infrastructure:** Natively engineered for high-performance cross-border distribution, featuring full right-to-left (RTL) Arabic, French, and English enterprise compliance.
 
 ---
 
 ### 2. Reps — AI Conversation Training Platform
-**Status:** 🟢 Live in Production | **Explore at:** [www.reps.maisongr.com](https://www.reps.maisongr.com)
+**Asset Class:** Corporate L&D / Interactive Simulation SaaS | **Liquidity Status:** 🟢 Active | **Deployment:** [www.reps.maisongr.com](https://www.reps.maisongr.com)
 
-Reps is an immersive conversation simulator designed to help individuals practice high-stakes real-world communication in a safe, dynamic environment. Practicing with Reps ensures you are ready before stepping into the room.
+Reps is an elite behavioral simulation engine designed for high-stakes interpersonal risk mitigation and corporate communication conditioning. The platform provides hyper-realistic environments for elite professionals to optimize real-world execution before entering high-impact scenarios.
 
-*   **Dynamic Roleplay Interactive:** Allows users to simulate 18 crucial scenarios across work and life—including salary negotiations, delivering difficult feedback, landlord disputes, and relationship boundaries.
-*   **Real-Time Pushback:** AI characters adapt dynamically to your tone, communication style, and empathy level across three difficulty modes (*Supportive*, *Realistic*, or *Combative*).
-*   **Coaching Debriefs:** Delivers an instant personalized review after every session, featuring an objective Readiness Score, aggregate benchmarking, an analysis of what worked versus what fell flat, and actionable first-person alternatives.
+*   **Asynchronous Roleplay Simulation:** Simulates critical strategic scenarios across enterprise operations and executive leadership, including complex equity negotiations and organizational disputes.
+*   **Adaptive Character Resistance Matrix:** Proprietary behavioral nodes adjust conversational pushback, psychological friction, and intent vectors across multiple difficulty baselines.
+*   **Automated Quantitative Debriefs:** Instantly processes session metrics to return structured analytical reports, including algorithmic Readiness Ratings, macro performance benchmarking, and predictive phrasing recommendations.
 
 ---
 
 ### 3. Vela — AI-Powered Canadian Recruitment SaaS
-**Status:** 🟡 Under Active Construction / Available for Acquisition | **Explore at:** [https://velarecruitment.ca](https://velarecruitment.ca)
+**Asset Class:** Enterprise HR-Tech / Marketplace | **Liquidity Status:** 🟡 Growth Phase — Available for Strategic Acquisition | **Deployment:** [https://velarecruitment.ca](https://velarecruitment.ca)
 
-Vela is a bilingual recruitment platform designed to seamlessly connect Canadian talent pools with scaling businesses through transparent, accountable matching metrics.
+Vela is an automated, bilingual recruitment engine built to optimize talent acquisition pipelines across North American enterprise ecosystems, bridging the gap between high-volume talent pools and market demands.
 
-*   **Deterministic Match Scoring:** Provides candidates and employers with clear, math-driven alignment scores from 0 to 100 based on core skills, experience, location, and language capabilities.
-*   **Ghost Score Transparency:** Tracks employer response frequencies against Canadian benchmarks, giving candidates real insight into company accountability before they apply.
-*   **Collaborative Workspaces:** Outfits recruitment teams with interactive visual pipelines, tailored Kanban tracking boards, and Employment Equity Act filtering options.
-*   **Progressive Guest Gating:** Features a fluid public job directory mapping locations and filter parameters seamlessly to maximize candidate acquisition and platform growth.
+*   **Deterministic Match Indexing:** Utilizes local mathematical matrix routing to instantly grade candidate alignment out of a perfect 100 based on strict operational data points, structural skill sets, and geographical parameters.
+*   **Corporate Accountability Analytics:** Introduces the market-first "Ghost Score" indexing mechanism, tracking corporate response rates against strict regional benchmarks to ensure ecosystem integrity.
+*   **Multi-Tenant Workspace Security:** Engineered for scale with precise cryptographic role-based access control (RBAC), multi-layered visual Kanban pipelines, and structural equity filtering rules.
+*   **High-Conversion Public Directory:** Features programmatic discovery layers and strict data boundaries to optimize natural candidate acquisition while protecting proprietary database assets.
 
 ---
 
-## 📜 Product Disclaimers & Policies
-*   **Scope of Resistaa:** Resistaa is built entirely as a supportive productivity and reflection assistant; it does not constitute clinical diagnosis, medical evaluation, or official mental health treatment.
-*   **Bilingual & Global Standard:** All Maison GR platforms are built with deep global localization in mind, respecting regional accessibility, modern data privacy guidelines, and native multi-language presentation.
+## 📜 Compliance, Governance & Structural Disclaimers
+*   **Healthcare Framework Boundary:** Resistaa functions exclusively as an advanced behavioral optimization and productivity tool. It does not provide clinical diagnostic processes, therapeutic evaluations, or regulated medical intervention.
+*   **Data Security & Sovereign Compliance:** All entities within the Maison GR portfolio adhere to stringent international privacy directives, localized data cross-border constraints, and premium encryption standards.
 
 ---
 
 <div align="center">
   <p>For inquiries, partnership opportunities, or acquisition details, contact **hello@maisongr.com**.</p>
-  <p>© 2026 Maison GR. All rights reserved.</p>
+  <p>© 2026 Maison GR. All strategic rights reserved.</p>
 </div>
