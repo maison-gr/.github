@@ -48,10 +48,10 @@ Resistaa is a category-defining behavioral modification platform engineered to m
 
 ---
 
-### 2. Reps — AI Conversation Training Platform
-**Asset Class:** Corporate L&D / Interactive Simulation SaaS | **Liquidity Status:** 🟢 Active | **Deployment:** [www.reps.maisongr.com](https://www.reps.maisongr.com)
+### 2. RolePlayAI — AI Conversation Training Platform
+**Asset Class:** Corporate L&D / Interactive Simulation SaaS | **Liquidity Status:** 🟢 Active | **Deployment:** [www.roleplayai.ca](https://www.roleplayai.ca)
 
-Reps is an elite behavioral simulation engine designed for high-stakes interpersonal risk mitigation and corporate communication conditioning. The platform provides hyper-realistic environments for elite professionals to optimize real-world execution before entering high-impact scenarios.
+RolePlayAI is an elite behavioral simulation engine designed for high-stakes interpersonal risk mitigation and corporate communication conditioning. The platform provides hyper-realistic environments for elite professionals to optimize real-world execution before entering high-impact scenarios.
 
 *   **Asynchronous Roleplay Simulation:** Simulates critical strategic scenarios across enterprise operations and executive leadership, including complex equity negotiations and organizational disputes.
 *   **Adaptive Character Resistance Matrix:** Proprietary behavioral nodes adjust conversational pushback, psychological friction, and intent vectors across multiple difficulty baselines.
@@ -60,7 +60,7 @@ Reps is an elite behavioral simulation engine designed for high-stakes interpers
 ---
 
 ### 3. Vela — AI-Powered Canadian Recruitment SaaS
-**Asset Class:** Enterprise HR-Tech / Marketplace | **Liquidity Status:** 🟡 Growth Phase — Available for Strategic Acquisition | **Deployment:** [https://velarecruitment.ca](https://velarecruitment.ca)
+**Asset Class:** Enterprise HR-Tech / Marketplace | **Liquidity Status:** 🟡 Growth Phase — Available for Strategic Acquisition | **Deployment:** [https://www.velarecruitment.ca](https://www.velarecruitment.ca)
 
 Vela is an automated, bilingual recruitment engine built to optimize talent acquisition pipelines across North American enterprise ecosystems, bridging the gap between high-volume talent pools and market demands.
 
