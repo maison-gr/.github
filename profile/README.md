@@ -48,10 +48,10 @@ Resistaa is a category-defining behavioral modification platform engineered to m
 
 ---
 
-### 2. PracticeMate — AI Conversation Training Platform
-**Asset Class:** Corporate L&D / Interactive Simulation SaaS | **Liquidity Status:** 🟢 Active | **Deployment:** [www.practicemate.maisongr.ca](https://www.practicemate.maisongr.com)
+### 2. Rehearse — AI Conversation Training Platform
+**Asset Class:** Corporate L&D / Interactive Simulation SaaS | **Liquidity Status:** 🟢 Active | **Deployment:** [www.rehearse.maisongr.ca](https://www.rehearse.maisongr.com)
 
-PracticeMate is an elite behavioral simulation engine designed for high-stakes interpersonal risk mitigation and corporate communication conditioning. The platform provides hyper-realistic environments for elite professionals to optimize real-world execution before entering high-impact scenarios.
+Rehearse is an elite behavioral simulation engine designed for high-stakes interpersonal risk mitigation and corporate communication conditioning. The platform provides hyper-realistic environments for elite professionals to optimize real-world execution before entering high-impact scenarios.
 
 *   **Asynchronous Roleplay Simulation:** Simulates critical strategic scenarios across enterprise operations and executive leadership, including complex equity negotiations and organizational disputes.
 *   **Adaptive Character Resistance Matrix:** Proprietary behavioral nodes adjust conversational pushback, psychological friction, and intent vectors across multiple difficulty baselines.
