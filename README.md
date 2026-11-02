@@ -1,71 +1,33 @@
-<div align="center">
-
 # Maison GR
 
-**Québec, Canada**
+Maison GR is a digital product studio in Québec City. We design, build and run our own SaaS, in English, French and Arabic, and we build yours with the same care.
 
-*Architecting, capitalizing, and engineering the next generation of high-conviction digital infrastructure and AI-native enterprise platforms.*
+This repository holds the studio's GitHub organisation profile. The page visitors see at [github.com/maison-gr](https://github.com/maison-gr) is [`profile/README.md`](profile/README.md).
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maison-gr&label=Institutional%20Traffic&color=000000&style=flat-square" />
-</p>
+## In production
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Maison%20GR-Venture%20Studio-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/AUM-Proprietary%20Holdings-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Engine-AI%20Native%20%2F%20Deep%20Tech-9333ea?style=flat-square" />
-</p>
+| Product | What it does | Where |
+|---|---|---|
+| **Resistaa** | A trilingual ADHD platform that helps people understand the block, trust what they read, and begin with one realistic action. | [resistaa.com](https://www.resistaa.com) |
+| **Rehearse** | Practise the raise, the breakup, the confrontation with an AI that plays the real person, then see exactly where you lost ground. | [rehearse.maisongr.com](https://www.rehearse.maisongr.com) |
+| **Signum** | Hiring, explained. A bilingual platform connecting Canadian candidates and employers through explainable matching and a built-in ATS. | [signumcareer.com](https://www.signumcareer.com) |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Enterprise-SaaS-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Proprietary-Algorithms-1e3a5f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Global-Infrastructure-0f766e?style=for-the-badge" />
-</p>
+## Open source
 
-</div>
+**[AI Engineering Skills](https://github.com/maison-gr/maisongr-ai-engineering-skills)**: engineering discipline for AI coding agents. Seven principles and ten skills that make an agent understand before it builds, keep its changes small, and prove the result. MIT licensed.
 
----
+## What is in this repository
 
-## 🏛️ Corporate Overview
+| Path | Contents |
+|---|---|
+| `profile/README.md` | The organisation profile shown on GitHub |
+| `profile/assets/` | Header artwork (light and dark) and product illustrations |
+| `logo.png` | The Maison GR logo |
 
-Maison GR operates at the intersection of world-class digital craftsmanship and institutional-grade software engineering. As a premier technology holding company and digital engineering atelier based in Québec, Canada, we conceptualize, build, and scale high-yielding asset portfolios. 
+## Licence
 
-Our proprietary development framework integrates advanced mathematical behavioral scoring, real-time streaming LLM orchestration, and strict multi-regional compliance (EN/FR/AR) into seamless, hyper-optimized consumer and enterprise solutions.
+The text, logo and artwork in this repository are not open source. All rights are reserved by Maison GR; see [LICENSE](LICENSE). To ask for permission to use them, write to [hello@maisongr.com](mailto:hello@maisongr.com).
 
 ---
 
-## 🚀 Active Portfolio & Asset Ecosystem
-
-### 1. Resistaa — The ADHD Operating System
-**Asset Class:** Consumer Healthtech / Productivity SaaS | **Liquidity Status:** 🟢 Active | **Deployment:** [www.resistaa.com](https://www.resistaa.com)
-
-Resistaa is a category-defining behavioral modification platform engineered to mitigate severe executive dysfunction and cognitive friction barriers. By replacing standard temporal overhead with instant, friction-free activation mechanics, it serves as a persistent productivity layer for neurodivergent professionals globally.
-
-*   **Proprietary AI Unblock Engine:** Dynamically diagnoses real-time cognitive resistance variables (including task paralysis, rejection sensitivity, and urgency dependency) to instantly output optimal, micro-segmented action paths.
-*   **Unified Cognitive Dashboard:** A friction-free operational hub integrating biometric energy analytics, synchronized behavioral focus timers, and unstructured semantic brain-dumps.
-*   **Virtual Body-Double Architecture:** Combines psychological pacing models with interactive focus environments to maximize deep-work retention and user velocity.
-*   **Global Localization Infrastructure:** Natively engineered for high-performance cross-border distribution, featuring full right-to-left (RTL) Arabic, French, and English enterprise compliance.
-
----
-
-### 2. Reps — AI Conversation Training Platform
-**Asset Class:** Corporate L&D / Interactive Simulation SaaS | **Liquidity Status:** 🟢 Active | **Deployment:** [www.reps.maisongr.com](https://www.reps.maisongr.com)
-
-Reps is an elite behavioral simulation engine designed for high-stakes interpersonal risk mitigation and corporate communication conditioning. The platform provides hyper-realistic environments for elite professionals to optimize real-world execution before entering high-impact scenarios.
-
-*   **Asynchronous Roleplay Simulation:** Simulates critical strategic scenarios across enterprise operations and executive leadership, including complex equity negotiations and organizational disputes.
-*   **Adaptive Character Resistance Matrix:** Proprietary behavioral nodes adjust conversational pushback, psychological friction, and intent vectors across multiple difficulty baselines.
-*   **Automated Quantitative Debriefs:** Instantly processes session metrics to return structured analytical reports, including algorithmic Readiness Ratings, macro performance benchmarking, and predictive phrasing recommendations.
-
----
-
-## 📜 Compliance, Governance & Structural Disclaimers
-*   **Healthcare Framework Boundary:** Resistaa functions exclusively as an advanced behavioral optimization and productivity tool. It does not provide clinical diagnostic processes, therapeutic evaluations, or regulated medical intervention.
-*   **Data Security & Sovereign Compliance:** All entities within the Maison GR portfolio adhere to stringent international privacy directives, localized data cross-border constraints, and premium encryption standards.
-
----
-
-<div align="center">
-  <p>For inquiries, partnership opportunities, or acquisition details, contact **hello@maisongr.com**.</p>
-  <p>© 2026 Maison GR. All strategic rights reserved.</p>
-</div>
+<sub>[maisongr.com](https://www.maisongr.com) · [hello@maisongr.com](mailto:hello@maisongr.com) · Québec City, Canada</sub>
