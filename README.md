@@ -1,6 +1,6 @@
 # Maison GR
 
-Maison GR is a digital product studio in Québec City. We design, build and run our own SaaS, in English, French and Arabic, and we build yours with the same care.
+Maison GR is a digital product studio in Québec City. We design, build and run our own SaaS, and we build yours with the same care.
 
 This repository holds the studio's GitHub organisation profile. The page visitors see at [github.com/maison-gr](https://github.com/maison-gr) is [`profile/README.md`](profile/README.md).
 
