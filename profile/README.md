@@ -31,6 +31,12 @@ Maison GR is a digital product studio in Québec City. We design, build and run 
 
 <br>
 
+### Open source
+
+**[AI Engineering Skills](https://github.com/maison-gr/maisongr-ai-engineering-skills)** — Engineering discipline for AI coding agents. Seven principles and ten skills that make an agent understand before it builds, keep its changes small, and prove the result. For Claude Code, Codex, Cursor, GitHub Copilot and Gemini CLI. MIT licensed.
+
+<br>
+
 ---
 
 <sub>[maisongr.com](https://www.maisongr.com) · [hello@maisongr.com](mailto:hello@maisongr.com) · Québec City, Canada</sub>
