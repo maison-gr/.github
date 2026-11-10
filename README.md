@@ -8,9 +8,10 @@ This repository holds the studio's GitHub organisation profile. The page visitor
 
 | Product | What it does | Where |
 |---|---|---|
-| **Resistaa** | A trilingual ADHD platform that helps people understand the block, trust what they read, and begin with one realistic action. | [resistaa.com](https://www.resistaa.com) |
+| **Resistaa** | An ADHD platform in ten languages that helps people understand the block, trust what they read, and begin with one realistic action. | [resistaa.com](https://www.resistaa.com) |
 | **Rehearse** | Practise the raise, the breakup, the confrontation with an AI that plays the real person, then see exactly where you lost ground. | [rehearse.maisongr.com](https://www.rehearse.maisongr.com) |
 | **Signum** | Hiring, explained. A bilingual platform connecting Canadian candidates and employers through explainable matching and a built-in ATS. | [signumcareer.com](https://www.signumcareer.com) |
+| **Website Passport** | A free website checker in ten languages. Eight scores, the next best fix for each section, written for the site's own platform, and thirteen free tools. | [checker.maisongr.com](https://www.checker.maisongr.com) |
 
 ## Open source
 

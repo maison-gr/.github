@@ -15,7 +15,7 @@ Maison GR is a digital product studio in Québec City. We design, build and run 
 
 <a href="https://www.resistaa.com"><img src="https://raw.githubusercontent.com/maison-gr/.github/main/profile/assets/resistaa.svg" width="100%" alt="Resistaa — ADHD knowledge, research and AI platform. Operating at resistaa.com."></a>
 
-**[Resistaa](https://www.resistaa.com)** — A trilingual ADHD platform that helps people understand the block, trust what they read, and begin with one realistic action.
+**[Resistaa](https://www.resistaa.com)** — An ADHD platform in ten languages that helps people understand the block, trust what they read, and begin with one realistic action.
 
 <br>
 
@@ -28,6 +28,12 @@ Maison GR is a digital product studio in Québec City. We design, build and run 
 <a href="https://www.signumcareer.com"><img src="https://raw.githubusercontent.com/maison-gr/.github/main/profile/assets/signum.svg" width="100%" alt="Signum — bilingual recruitment platform for Canada. Operating at signumcareer.com."></a>
 
 **[Signum](https://www.signumcareer.com)** — Hiring, explained. A bilingual platform connecting Canadian candidates and employers through explainable matching and a built-in ATS.
+
+<br>
+
+<a href="https://www.checker.maisongr.com"><img src="https://raw.githubusercontent.com/maison-gr/.github/main/profile/assets/website-passport.svg" width="100%" alt="Website Passport — free website checker in ten languages. Operating at checker.maisongr.com."></a>
+
+**[Website Passport](https://www.checker.maisongr.com)** — A free website checker in ten languages. Eight scores, the next best fix for each section, written for the site's own platform, and thirteen free tools.
 
 <br>
 
