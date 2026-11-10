@@ -15,7 +15,7 @@ Maison GR is a digital product studio in Québec City. We design, build and run 
 
 <a href="https://www.resistaa.com"><img src="https://raw.githubusercontent.com/maison-gr/.github/main/profile/assets/resistaa.svg" width="100%" alt="Resistaa — ADHD knowledge, research and AI platform. Operating at resistaa.com."></a>
 
-**[Resistaa](https://www.resistaa.com)** — A trilingual ADHD platform that helps people understand the block, trust what they read, and begin with one realistic action.
+**[Resistaa](https://www.resistaa.com)** — An ADHD platform in ten languages that helps people understand the block, trust what they read, and begin with one realistic action.
 
 <br>
 
