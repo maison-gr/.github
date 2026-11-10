@@ -31,6 +31,12 @@ Maison GR is a digital product studio in Québec City. We design, build and run 
 
 <br>
 
+<a href="https://www.checker.maisongr.com"><img src="https://raw.githubusercontent.com/maison-gr/.github/main/profile/assets/website-passport.svg" width="100%" alt="Website Passport — free website checker in ten languages. Operating at checker.maisongr.com."></a>
+
+**[Website Passport](https://www.checker.maisongr.com)** — A free website checker in ten languages. Eight scores, the next best fix for each section, written for the site's own platform, and thirteen free tools.
+
+<br>
+
 ### Open source
 
 The tools we build with, published on npm and held to the same standard as our clients' products: tested on every change, scanned, and released with npm provenance. [maisongr.com/open-source](https://www.maisongr.com/en/open-source)
