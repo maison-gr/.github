@@ -14,9 +14,9 @@ This repository holds the studio's GitHub organisation profile. The page visitor
 
 ## Open source
 
-**[AI Engineering Skills](https://github.com/maison-gr/maisongr-skills)**: engineering discipline for AI coding agents. Seven principles and ten skills that make an agent understand before it builds, keep its changes small, and prove the result. MIT licensed.
+**[maisongr-skills](https://github.com/maison-gr/maisongr-skills)**: engineering discipline for AI coding agents. Seven principles and thirteen skills that make an agent understand before it builds, keep its changes small, and prove the result. MIT licensed.
 
-**[Sitemap](https://github.com/maison-gr/sitemap)**: one sitemap, two readers. The XML search engines need, and a page in your site's own design for people, for Next.js, Astro, SvelteKit, Nuxt and Express. MIT licensed.
+**[maisongr-sitemap](https://github.com/maison-gr/maisongr-sitemap)**: one sitemap, two readers. The XML search engines need, and a page in your site's own design for people, for Next.js, Astro, SvelteKit, Nuxt and Express. MIT licensed.
 
 ## What is in this repository
 
