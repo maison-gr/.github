@@ -39,13 +39,13 @@ Maison GR is a digital product studio in Québec City. We design, build and run 
 
 ### Open source
 
-The tools we build with, published on npm and held to the same standard as our clients' products: tested on every change, scanned, and released with npm provenance. [maisongr.com/open-source](https://www.maisongr.com/en/open-source)
+The tools we build with, held to the same standard as our clients' products: tested on every change, scanned, and, for the npm packages, released with npm provenance. [maisongr.com/open-source](https://www.maisongr.com/en/open-source)
 
 **[maisongr-skills](https://github.com/maison-gr/maisongr-skills)** — Engineering discipline for AI coding agents. Seven principles and thirteen skills that make an agent understand before it builds, keep its changes small, and prove the result, with receipts that check what it reports and stop the dev servers it forgot. For Claude Code, Codex, Cursor, GitHub Copilot and Gemini CLI. MIT licensed. `npx maisongr-skills`
 
-**[maisongr-sitemap](https://github.com/maison-gr/maisongr-sitemap)** — One sitemap, two readers: the XML search engines need, and a page in your site's own design for people, with no XSLT, which browsers are removing. One command finds your pages, dates each one from Git and reads your theme. For Next.js, Astro, SvelteKit, Nuxt and Express. MIT licensed. `npx maisongr-sitemap init`
+**[maisongr-sitemap](https://github.com/maison-gr/maisongr-sitemap)** — One sitemap, two readers: the XML search engines need, and a page in your site's own design for people, with no XSLT, which browsers are removing. One command finds your pages, dates each one from Git and reads your theme. For every site except WordPress: Next.js, Astro, SvelteKit, Nuxt, Express and more. MIT licensed. `npx maisongr-sitemap init`
 
-**[maisongr-sitemap-wordpress](https://github.com/maison-gr/maisongr-sitemap-wordpress)** — The same sitemap as a WordPress plugin: your posts, pages and terms, dated from their last edit, and a page set in your theme's own colours and fonts. It replaces WordPress's own sitemap and leaves out what your SEO plugin marks noindex. MIT licensed.
+**[maisongr-sitemap-wordpress](https://github.com/maison-gr/maisongr-sitemap-wordpress)** — On WordPress, use this plugin instead of the npm package. The same sitemap: your posts, pages and terms, dated from their last edit, and a page set in your theme's own colours and fonts. It replaces WordPress's own sitemap and leaves out what your SEO plugin marks noindex. MIT licensed; its WordPress.org listing is under review.
 
 <br>
 
