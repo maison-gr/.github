@@ -1,0 +1,13 @@
+
+# Local tool settings, kept on each machine
+.claude/
+.agents/
+.gemini/
+.cursor/
+.codex/
+.windsurf/
+AGENTS.md
+CLAUDE.md
+CLAUDE.local.md
+GEMINI.md
+.mcp.json
