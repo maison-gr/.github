@@ -41,7 +41,7 @@ Maison GR is a digital product studio in Québec City. We design, build and run 
 
 The tools we build with, held to the same standard as our clients' products: tested on every change, scanned, and, for the npm packages, released with npm provenance. [maisongr.com/open-source](https://www.maisongr.com/en/open-source)
 
-**[maisongr-skills](https://github.com/maison-gr/maisongr-skills)** — Engineering discipline for AI coding agents. Seven principles and sixteen skills that make an agent understand before it builds, keep its changes small, and prove the result, with receipts that check what it reports and stop the dev servers it forgot. For Claude Code, Codex, Cursor, GitHub Copilot and Gemini CLI. MIT licensed. `npx maisongr-skills`
+**[maisongr-skills](https://github.com/maison-gr/maisongr-skills)** — Engineering discipline for AI coding agents. Seven principles and seventeen skills that make an agent understand before it builds, keep its changes small, and prove the result, with receipts that check what it reports and stop the dev servers it forgot. For Claude Code, Codex, Cursor, GitHub Copilot and Gemini CLI. MIT licensed. `npx maisongr-skills`
 
 **[maisongr-sitemap](https://github.com/maison-gr/maisongr-sitemap)** — One sitemap, two readers: the XML search engines need, and a page in your site's own design for people, with no XSLT, which browsers are removing. One command finds your pages, dates each one from Git and reads your theme. For every site except WordPress: Next.js, Astro, SvelteKit, Nuxt, Express and more. MIT licensed. `npx maisongr-sitemap init`
 
