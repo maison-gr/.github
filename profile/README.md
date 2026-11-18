@@ -45,7 +45,7 @@ The tools we build with, held to the same standard as our clients' products: tes
 
 **[maisongr-sitemap](https://github.com/maison-gr/maisongr-sitemap)** — One sitemap, two readers: the XML search engines need, and a page in your site's own design for people, with no XSLT, which browsers are removing. One command finds your pages, dates each one from Git and reads your theme. For every site except WordPress: Next.js, Astro, SvelteKit, Nuxt, Express and more. MIT licensed. `npx maisongr-sitemap init`
 
-**[maisongr-sitemap-wordpress](https://github.com/maison-gr/maisongr-sitemap-wordpress)** — On WordPress, use this plugin instead of the npm package. The same sitemap: your posts, pages and terms, dated from their last edit, and a page set in your theme's own colours and fonts. It replaces WordPress's own sitemap and leaves out what your SEO plugin marks noindex. MIT licensed; its WordPress.org listing is under review.
+**[maisongr-sitemap-wordpress](https://github.com/maison-gr/maisongr-sitemap-wordpress)** — On WordPress, use this plugin instead of the npm package. The same sitemap: your posts, pages and terms, dated from their last edit, and a page set in your theme's own colours and fonts. It replaces WordPress's own sitemap and leaves out what your SEO plugin marks noindex. MIT licensed; install it from [WordPress.org](https://wordpress.org/plugins/maisongr-sitemap/).
 
 <br>
 

@@ -19,7 +19,7 @@ This repository holds the studio's GitHub organisation profile. The page visitor
 
 **[maisongr-sitemap](https://github.com/maison-gr/maisongr-sitemap)**: one sitemap, two readers. The XML search engines need, and a page in your site's own design for people, for every site except WordPress: Next.js, Astro, SvelteKit, Nuxt, Express and more. MIT licensed.
 
-**[maisongr-sitemap-wordpress](https://github.com/maison-gr/maisongr-sitemap-wordpress)**: for WordPress, instead of the npm package. The same sitemap as a plugin, set in your theme's own colours and fonts. MIT licensed.
+**[maisongr-sitemap-wordpress](https://github.com/maison-gr/maisongr-sitemap-wordpress)**: for WordPress, instead of the npm package. The same sitemap as a plugin, set in your theme's own colours and fonts. MIT licensed, [on WordPress.org](https://wordpress.org/plugins/maisongr-sitemap/).
 
 ## What is in this repository
 
