@@ -47,6 +47,10 @@ The tools we build with, held to the same standard as our clients' products: tes
 
 **[maisongr-sitemap-wordpress](https://github.com/maison-gr/maisongr-sitemap-wordpress)** — On WordPress, use this plugin instead of the npm package. The same sitemap: your posts, pages and terms, dated from their last edit, and a page set in your theme's own colours and fonts. It replaces WordPress's own sitemap and leaves out what your SEO plugin marks noindex. MIT licensed; install it from [WordPress.org](https://wordpress.org/plugins/maisongr-sitemap/).
 
+**[maisongr-typo](https://github.com/maison-gr/maisongr-typo)** — French typography, the Québec way: the no-break spaces, « guillemets », hours (8 h 30) and amounts (1 490 $) the Office québécois de la langue française prescribes, or France's rules on request. For text, Markdown, HTML and JSON translation files, with a check that fails CI on copy that breaks them. MIT licensed.
+
+**[maisongr-law25](https://github.com/maison-gr/maisongr-law25)** — Your Québec Law 25 privacy impact assessment, kept next to the code. It checks the assessment against your Prisma schema or SQL migrations, fails CI when a field that looks personal has no stated purpose or retention, and writes the report in French and English. MIT licensed.
+
 <br>
 
 ---
