@@ -39,4 +39,4 @@ The text, logo and artwork in this repository are not open source. All rights ar
 
 ---
 
-<sub>[maisongr.com](https://www.maisongr.com) · [hello@maisongr.com](mailto:hello@maisongr.com) · Québec City, Canada</sub>
+<sub>Maison GR Inc. · [maisongr.com](https://www.maisongr.com) · [hello@maisongr.com](mailto:hello@maisongr.com) · Québec City, Canada</sub>
