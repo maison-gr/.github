@@ -21,6 +21,10 @@ This repository holds the studio's GitHub organisation profile. The page visitor
 
 **[maisongr-sitemap-wordpress](https://github.com/maison-gr/maisongr-sitemap-wordpress)**: for WordPress, instead of the npm package. The same sitemap as a plugin, set in your theme's own colours and fonts. MIT licensed, [on WordPress.org](https://wordpress.org/plugins/maisongr-sitemap/).
 
+**[maisongr-typo](https://github.com/maison-gr/maisongr-typo)**: French typography, the Québec way, for text, Markdown, HTML and JSON, with a CI check. MIT licensed.
+
+**[maisongr-law25](https://github.com/maison-gr/maisongr-law25)**: a Québec Law 25 privacy impact assessment kept next to the code, checked against the schema in CI and written in French and English. MIT licensed.
+
 ## What is in this repository
 
 | Path | Contents |
@@ -31,7 +35,7 @@ This repository holds the studio's GitHub organisation profile. The page visitor
 
 ## Licence
 
-The text, logo and artwork in this repository are not open source. All rights are reserved by Maison GR; see [LICENSE](LICENSE). To ask for permission to use them, write to [hello@maisongr.com](mailto:hello@maisongr.com).
+The text, logo and artwork in this repository are not open source. All rights are reserved by Maison GR Inc.; see [LICENSE](LICENSE). To ask for permission to use them, write to [hello@maisongr.com](mailto:hello@maisongr.com).
 
 ---
 
