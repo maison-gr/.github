@@ -55,4 +55,4 @@ The tools we build with, held to the same standard as our clients' products: tes
 
 ---
 
-<sub>[maisongr.com](https://www.maisongr.com) · [hello@maisongr.com](mailto:hello@maisongr.com) · Québec City, Canada</sub>
+<sub>Maison GR Inc. · [maisongr.com](https://www.maisongr.com) · [hello@maisongr.com](mailto:hello@maisongr.com) · Québec City, Canada</sub>
