@@ -1,7 +1,7 @@
 <a href="https://www.maisongr.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maison-gr/.github/main/profile/assets/header-dark.jpg">
-    <img src="https://raw.githubusercontent.com/maison-gr/.github/main/profile/assets/header-light.jpg" width="100%" alt="Maison GR. We build our own SaaS. And yours. A digital product studio in Québec City: four products in production, in ten languages, and five open-source tools for developers.">
+    <img src="https://raw.githubusercontent.com/maison-gr/.github/main/profile/assets/header-light.jpg" width="100%" alt="Maison GR, product studio in Québec City. Your website. Your app. Your SaaS. Built right. Our products: Resistaa, the ADHD task starter; Rehearse, AI conversation training; Signum, recruitment. 04: your product here.">
   </picture>
 </a>
 
